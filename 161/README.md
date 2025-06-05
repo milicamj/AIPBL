@@ -13,3 +13,5 @@ Below are links to free, openly licensed materials for studying electromagnetics
 - [All About Circuits – Magnetics Section](https://www.allaboutcircuits.com/textbook/magnetism/): Articles and tutorials on magnetic circuits and fields.
 - [Khan Academy – Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering): Introductory lessons on electromagnetism, including video lectures and exercises.
 - [Ximera – Electromagnetics Module](https://ximera.osu.edu/electromagnetics/electromagnetics): Interactive lessons with practice problems on electromagnetics.
+
+ main
