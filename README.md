@@ -1,11 +1,12 @@
 # AIPBL
 Repository of Open Source Materials for EEE 161, ENGR 104L, CIS 307
 
- codex/find-and-add-oer-links-for-electromagnetics
+main
 ## Directory Overview
 
 - `161/` - Links to open educational resources for electromagnetics (EEE 161)
 - `OER_EEE161/` - Placeholder for additional course materials
+
 
 
 ## Purpose
