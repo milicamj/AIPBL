@@ -1,7 +1,6 @@
 # AIPBL
 Repository of Open Source Materials for EEE 161, ENGR 104L, CIS 307
 
-main
 ## Directory Overview
 
 - `161/` - Links to open educational resources for electromagnetics (EEE 161)
