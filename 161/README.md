@@ -8,4 +8,8 @@ Below are links to free, openly licensed materials for studying electromagnetics
 - [Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/8-02x-physics-ii-electricity-and-magnetism-spring-2002/) MIT OpenCourseWare
 - [University Physics Volume 2](https://openstax.org/details/books/university-physics-volume-2) (OpenStax, CC BY 4.0)
 - [All About Circuits Textbook](https://www.allaboutcircuits.com/textbook/) (Chapters on electromagnetism, CC BY-SA 4.0)
-
+- [MIT OpenCourseWare – Electromagnetics and Applications](https://ocw.mit.edu/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/): Free lecture notes and videos covering fundamental electromagnetic theory.
+- [UC Irvine OpenChem – Electricity and Magnetism](https://ocw.uci.edu/courses/physics_3b_electricity_and_magnetism.html): Open textbook and problem sets for undergraduate electromagnetics.
+- [All About Circuits – Magnetics Section](https://www.allaboutcircuits.com/textbook/magnetism/): Articles and tutorials on magnetic circuits and fields.
+- [Khan Academy – Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering): Introductory lessons on electromagnetism, including video lectures and exercises.
+- [Ximera – Electromagnetics Module](https://ximera.osu.edu/electromagnetics/electromagnetics): Interactive lessons with practice problems on electromagnetics.
