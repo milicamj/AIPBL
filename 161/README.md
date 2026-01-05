@@ -18,11 +18,8 @@ This is a curated list of **open educational resources** for studying electromag
 ### All About Circuits Textbook (chapters on electromagnetism) — CC BY-SA 4.0
 - [https://www.allaboutcircuits.com/textbook/](https://www.allaboutcircuits.com/textbook/)
 
-### UC Irvine Open (OpenChem) — Electricity and Magnetism (open textbook + problem sets)
-- [https://open.uci.edu/courses/physics_3b_electricity_and_magnetism.html](https://open.uci.edu/courses/physics_3b_electricity_and_magnetism.html)
-
 ### Ximera — Electromagnetics Module (interactive lessons + practice)
-- [https://ximera.osu.edu/oer/electromagnetics](https://ximera.osu.edu/oer/electromagnetics)
+- [https://ximera.osu.edu/em/electromagnetics](https://ximera.osu.edu/em/electromagnetics)
 
 ---
 
