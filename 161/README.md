@@ -34,8 +34,8 @@ This is a curated list of **open educational resources** for studying electromag
 ### MIT OCW 6.007 Electromagnetic Energy: From Motors to Lasers — CC BY-NC-SA 4.0
 - [https://ocw.mit.edu/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/](https://ocw.mit.edu/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/)
 
-### MIT OCW 8.02 Physics II: Electricity and Magnetism (Walter Lewin) — CC BY-NC-SA 4.0
-- [https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
+### MIT OCW 8.02x Physics II: Electricity and Magnetism — CC BY-NC-SA 4.0
+- [https://ocw.mit.edu/courses/8-02x-physics-ii-electricity-and-magnetism-spring-2002/](https://ocw.mit.edu/courses/8-02x-physics-ii-electricity-and-magnetism-spring-2002/)
 
 ---
 
