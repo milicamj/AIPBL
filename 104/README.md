@@ -35,6 +35,9 @@ Mechanics of Materials / Strength of Materials lecture + lab (or lab-like analys
 - Modules (PDF notes):
   - [https://ocw.mit.edu/courses/3-11-mechanics-of-materials-fall-1999/pages/modules/](https://ocw.mit.edu/courses/3-11-mechanics-of-materials-fall-1999/pages/modules/)
 
+### Mechanics and Science of Materials (Cal Poly Humboldt) — LibreTexts
+- [https://eng.libretexts.org/Courses/California_State_Polytechnic_University_Humboldt/Mechanics_and_Science_of_Materials](https://eng.libretexts.org/Courses/California_State_Polytechnic_University_Humboldt/Mechanics_and_Science_of_Materials)
+
 ### MIT OCW 1.050 Solid Mechanics — OCW Creative Commons
 - [https://ocw.mit.edu/courses/1-050-solid-mechanics-fall-2004/](https://ocw.mit.edu/courses/1-050-solid-mechanics-fall-2004/)
 
