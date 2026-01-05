@@ -1,13 +1,11 @@
 # AIPBL
-Repository of Open Source Materials for EEE 161, ENGR 104L, CIS 307
+Repository of Open Source Materials for EEE 161
 
-main
 ## Directory Overview
 
 - `161/` - Links to open educational resources for electromagnetics (EEE 161)
+- `EEE161` - List of additional electromagnetics resources
 - `OER_EEE161/` - Placeholder for additional course materials
-
-
 
 ## Purpose
 This repository aims to collect quality open educational resources (OERs) on electromagnetics. By gathering freely available lectures, notes, and problem sets in one place, we hope to support students and instructors looking for accessible learning materials.
@@ -17,4 +15,3 @@ Contributions are welcome! To add a new resource, fork this repository, append y
 
 ## License
 Material in this repository is released under the [CC0 1.0 Universal](LICENSE) license.
- main
